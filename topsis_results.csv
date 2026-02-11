@@ -1,0 +1,6 @@
+Model,Cosine_Similarity,Inference_Speed,Model_Size_MB,TOPSIS_Score,Rank
+all-MiniLM-L6-v2,0.68,14200,80,0.9532783658278656,1
+paraphrase-albert-small-v2,0.64,5000,43,0.41069500630220346,2
+all-distilroberta-v1,0.68,4000,290,0.1866563057273339,3
+all-mpnet-base-v2,0.69,2800,420,0.0647516686379825,4
+multi-qa-mpnet-base-dot-v1,0.66,2800,420,0.0269250133636072,5
